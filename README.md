@@ -25,7 +25,7 @@ Users should be able to:
 ![Desktiop](./screenshots/desktop.png)
 
 ### Links
-- Live Site URL: [Result summary Challenge by Mystiuk]([https://your-live-site-url.com](https://github.com/Mystiuk/Results-summary-component-challenge))
+- Live Site URL: [Result summary Challenge by Mystiuk] (https://github.com/Mystiuk/Results-summary-component-challenge)
 
 ## My process
 
