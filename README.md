@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building real projects. 
 
 ## Table of contents
 
@@ -25,9 +25,7 @@ Users should be able to:
 ![Desktiop](./screenshots/desktop.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Result summary Challenge by Mystiuk]([https://your-live-site-url.com](https://github.com/Mystiuk/Results-summary-component-challenge))
 
 ## My process
 
@@ -41,6 +39,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Dmytro Mystiuk](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn - [Dmytro Mystiuk]([https://www.your-site.com](https://www.linkedin.com/in/dmytro-mystiuk-404a3a206/))
+- Frontend Mentor - [@Mystiuk]()
 
